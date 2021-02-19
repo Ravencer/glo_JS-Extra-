@@ -1,0 +1,24 @@
+body{
+  background-color: #008d3b;
+}
+#color{
+  text-align: center;
+  font-size: 32px;
+  color: #fff;
+  flex-basis: 100%;
+}
+#change{
+  background-color: #fff;
+  color: inherit;
+  outline: none;
+  border: none;
+  height: 40px;
+  width: 120px;
+  cursor: pointer;
+}
+.wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
